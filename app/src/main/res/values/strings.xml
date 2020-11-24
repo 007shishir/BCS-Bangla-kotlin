@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Bcs Bangla Grammar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //mcq
+    <string name="mcq_parts_of_speech">bcs_evs</string>
+    <string name="mcq_Idioms_phrases">bcs_idioms_phrases</string>
+    <string name="mcq_clause_correction">mcq_cls_corr</string>
+    <string name="mcq_trans_sentence">mcq_trans_sentence</string>
+    <string name="mcq_trans_voice">mcq_trans_voice</string>
+    <string name="mcq_trans_degree">mcq_trans_degree</string>
+    <string name="mcq_trans_word_mean">mcq_trans_word_mean</string>
+    <string name="mcq_synonym">mcq_synonym</string>
+    <string name="mcq_antonym">mcq_antonym</string>
+    <string name="mcq_spelling">mcq_spelling</string>
+    <string name="mcq_words_extra">mcq_words_extra</string>
+    <string name="mcq_narration">mcq_narration</string>
+    <string name="mcq_conditonal">mcq_conditonal</string>
+    <string name="mcq_analogy">mcq_analogy</string>
+    <string name="mcq_diction">mcq_diction</string>
+    <string name="mcq_translation">mcq_translation</string>
+
+    //memorise
+    <string name="memorise_Parts_of_Speech">mem_parts_speech</string>
+    <string name="memorise_Idioms_Phrases">bcs_pos_memorize</string>
+    <string name="memorise_Clause_Correction">bcs_cls_corr_memorize</string>
+    <string name="memorise_Transformation_Sentences">mem_trans_sent</string>
+    <string name="memorise_words_meaning">mem_words</string>
+    <string name="memorise_additional_section">mem_additional</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bcs_book_list">BCS Book List</string>
+    <string name="bcs_syllabus">BCS Syllabus</string>
+    <string name="send_email">Send Email</string>
+    <string name="facebook_group">Facebook Group</string>
+    <string name="facebook_page">Facebook Page</string>
+    <string name="logo_image_text">Logo Image</string>
+    <string name="email_address">eee.videotutorial@gmail.com</string>
+    <string name="subject">Subject:</string>
+    <string name="write_the_subject_of_your_mail">Write the Subject of your Mail!</string>
+    <string name="message">Message:</string>
+    <string name="you_message">Write you message here.</string>
+    <string name="send">send</string>
+    <string name="reciverOfMail">To:</string>
+    <string name="ee">ee</string>
+    <string name="e">e</string>
+
+    <!--    all the string value from the view of McqVersion1 Class-->
+    <string name="master_status">master_status</string>
+    <string name="learning_status">learning_status</string>
+    <string name="primary_status">primary_status</string>
+    <string name="random_text">random_text</string>
+    <string name="refresh">refresh</string>
+    <string name="explanation">explanation</string>
+    <string name="submit">submit</string>
+    <string name="checkbox">checkbox</string>
+    <string name="try_text">Try</string>
+    <string name="point">point</string>
+    <string name="answer">answer</string>
+    <string name="check">check</string>
+    <string name="question">question</string>
+    <string name="id">id</string>
+    <string name="topic">topic</string>
+    <string name="tap_to_see_the_answer">Tap to see the answer!</string>
+    <string name="i_didn_t_know_this">I didn\'t know this</string>
+    <string name="i_knew_this">I Knew this</string>
+    <string name="level_of_card">Level of Card</string>
+    <string name="info">info</string>
+    <string name="primary">primary</string>
+</resources>
